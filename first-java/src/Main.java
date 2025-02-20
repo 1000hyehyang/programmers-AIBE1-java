@@ -2,6 +2,6 @@
 // 에디터 여백에 있는 <icon src="AllIcons.Actions.Execute"/> 아이콘을 클릭하세요.
 public class Main {
     public static void main(String[] args) {
-        System.out. println("Hello, World!");
+        System.out. println("나는 3월 22일만 기다려");
     }
 }
